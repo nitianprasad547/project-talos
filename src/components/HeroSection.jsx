@@ -1,7 +1,10 @@
 import Button from "./shared/Button";
 import { siteConfig } from "../config/navbarHero";
 
+import { useNavigate } from "react-router";
+  
 export default function HeroSection() {
+  const navigate = useNavigate();
   const handleJoinUs = () => {
     navigate("/applications");
   };
