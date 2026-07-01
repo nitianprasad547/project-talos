@@ -99,7 +99,7 @@ const teamMembers = [
   {
     name: "Santosh Barik",
     title: "Captain",
-    img: "https://res.cloudinary.com/ddoeahbpv/image/upload/images_1_ujpf6e.jpg",
+    img: "https://res.cloudinary.com/ddoeahbpv/image/upload/v1782916942/Santosh_Kumar_Barik_Blueprint_Captain_huuufz.jpg",
     description: "13",
     team: "Team Blueprint",
     linkedin: "https://www.linkedin.com/jobs/",
@@ -123,7 +123,7 @@ const teamMembers = [
   {
     name: "Subasis Swain",
     title: "Electonics Lead",
-    img: "https://res.cloudinary.com/ddoeahbpv/image/upload/images_1_ujpf6e.jpg",
+    img: "https://res.cloudinary.com/ddoeahbpv/image/upload/v1782917127/Subasis_Swain_Blueprint_Electronic_lead_llqmag.jpg",
     description: "16",
     team: "Team Blueprint",
     linkedin: "https://www.linkedin.com/in/subasis-swain-4a3227350/",
